@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Canvas Helper",
+    "version": "1.0",
+    "description": "Analyzes Canvas assignments and provides time optimization.",
+    "permissions": ["storage"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "32": "icon.png"
+    
+      }
+    }
+  }
+  

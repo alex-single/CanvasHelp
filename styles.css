@@ -1,0 +1,36 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Heading Styling */
+  h1 {
+    color: #4CAF50;
+    font-size: 24px;
+  }
+  
+  /* Button Styling */
+  button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  /* Result Text Styling */
+  #result {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #333;
+  }
+  
